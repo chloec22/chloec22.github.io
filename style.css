@@ -7,9 +7,22 @@ background-color: #ffffff
 h1 {
 text-align: center;
 font-size: 60px;
-font-family: 'Dela Gothic One', serif;
+font-family: 'Georgia', georgia;
+text-decoration-color: #A3C2B6;
+}
+
+p {
+font-size: 36px;
 
 }
+
+img {
+border-width: 5px;
+border-radius: 15%;	
+
+}
+
+
 
 li{
 
